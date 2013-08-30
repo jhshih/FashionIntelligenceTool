@@ -1,0 +1,1 @@
+colourRef:config/colour_ref.csvtaxonomyRef:config/taxonomy.csvinputFile:input_files/zara.csvoutputFile:output_files/zara_processed.csverrorFile:output_files/zara_error.csv

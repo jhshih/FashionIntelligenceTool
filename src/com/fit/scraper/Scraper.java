@@ -8,6 +8,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import com.fit.objects.Item;
 import com.fit.objects.ScrapeConfig;
 import com.fit.util.ConfigUtils;
 import com.fit.util.ScraperUtils;
@@ -50,12 +51,8 @@ public class Scraper implements Runnable {
 				System.out.println(url);
 				Document doc = WebUtils.getPage(url);
 				if (doc != null) {
-					//Item item = ScraperUtils.processItem(doc, config);
-					String id = ScraperUtils.getSingle(doc, config.getIdTag().getTag());
-					System.out.println("SKU: " + id);
-					
-					String name = ScraperUtils.getSingle(doc, config.getProductName().getTag());
-					System.out.println("Product Name: " + name);
+					Item item = ScraperUtils.processPage(doc, config);
+					item.print();
 				}
 			//}	
 			}

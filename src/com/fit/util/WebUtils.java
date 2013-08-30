@@ -7,7 +7,10 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.parser.Parser;
 
-/**does some stuff
+/**
+ * Collection of methods for accessing web pages and downloading source for
+ * parsing in JSoup
+ * 
  * @author jhshih
  * 
  */
@@ -16,8 +19,8 @@ public class WebUtils {
 	private WebUtils() {}
 	
 	/**
-	 * @param url
-	 * @return JSoup document
+	 * @param url URL of page to download
+	 * @return page source code in JSoup document format
 	 */
 	public static Document getXML(String url) {
 		
@@ -39,8 +42,8 @@ public class WebUtils {
 	}
 	
 	/**
-	 * @param url
-	 * @return
+	 * @param url URL of page to download
+	 * @return page source code in JSoup document format
 	 */
 	public static Document getPage(String url) {
 		

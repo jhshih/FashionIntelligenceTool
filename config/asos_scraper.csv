@@ -1,0 +1,12 @@
+baseURL,http://www.asos.com/sitemap.ashx,2,.*(asos.com).*
+idTag,css,span.productcode
+productName,css,span.product_title
+originalPrice,css,div.product_price span.product_price_details
+discountPrice,css,div.product_price span.previousprice
+discounted,js,IsDiscounted
+available,css,asdf
+size,css,size option[value]
+colour,css,div.colour select option[value]
+category,css,div.other-categories ul li
+brand,js,ProductBrand
+imageURL,css,img.main-image

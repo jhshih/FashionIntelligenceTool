@@ -18,9 +18,25 @@ public class ScraperUtils {
 		
 		Item result = new Item();
 		
-		//String sku = getSingle(doc, config.getIdTag().getTag());
+		String sku = getSingle(doc, config.getIdTag().getTag());
+		String productName = getSingle(doc, config.getProductName().getTag());
+		String originalPrice = getSingle(doc, config.getOriginalPrice().getTag());
+		String discountPrice = getSingle(doc, config.getDiscountPrice().getTag());
+		String available = getSingle(doc, config.getAvailable().getTag());
+		String size = getMultiple(doc, config.getSize().getTag());
+		String colour = getMultiple(doc, config.getColour().getTag());
+		String category = getMultiple(doc, config.getCategory().getTag());
+		String imageURL = getSingle(doc, config.getImageURL().getTag());
 		
-		//String productName = getSingle(doc, config.getProductName().getTag());
+		result.setSKU(sku);
+		result.setProductName(productName);
+		result.setOriginalPrice(originalPrice);
+		result.setDiscountPrice(discountPrice);
+		result.setAvailable(available);
+		result.setSize(size);
+		result.setColour(colour);
+		result.setCategory1(category);
+		result.setImageURL(imageURL);
 		
 		/*
 		//Retailer
@@ -44,6 +60,7 @@ public class ScraperUtils {
 		//image url
 		*/
 		
+		/*
 		Elements scripts = doc.select("script[type*=javascript]");
 		for (Element script : scripts) {
 			//System.out.println(script.html());
@@ -64,6 +81,7 @@ public class ScraperUtils {
 			}
 
 		}
+		*/
 		
 		return result;
 		

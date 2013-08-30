@@ -1,0 +1,356 @@
+ID,Root,Level 1,Level 2,Level 3,Level 4,Keyword
+1,Clothing & Accessories,Accessories,Belts,Buckle Belts,,buckle belt
+1,Clothing & Accessories,Accessories,Belts,Elastic Belts,,elastic belt
+1,Clothing & Accessories,Accessories,Belts,Other,,belt
+1,Clothing & Accessories,Accessories,Glasses,Fashion Glasses,,fashion glasses
+1,Clothing & Accessories,Accessories,Glasses,Sunglasses,,sunglasses
+1,Clothing & Accessories,Accessories,Glasses,Other,,glasses
+1,Clothing & Accessories,Accessories,Gloves,Knitted Gloves,Fingerless Gloves,fingerless glove
+1,Clothing & Accessories,Accessories,Gloves,Knitted Gloves,Mittens,mitten
+1,Clothing & Accessories,Accessories,Gloves,Knitted Gloves,Winter Gloves,winter glove
+1,Clothing & Accessories,Accessories,Gloves,Knitted Gloves,Other,knitted glove
+1,Clothing & Accessories,Accessories,Gloves,Leather Gloves,,leather glove
+1,Clothing & Accessories,Accessories,Gloves,Occasion Gloves,,occasion glove
+1,Clothing & Accessories,Accessories,Gloves,Other,,glove
+1,Clothing & Accessories,Accessories,Hair Accessories,Alice Bands,,alice band
+1,Clothing & Accessories,Accessories,Hair Accessories,Bandanas,,bandana
+1,Clothing & Accessories,Accessories,Hair Accessories,Clips ,,clip
+1,Clothing & Accessories,Accessories,Hair Accessories,Corsages,,corsage
+1,Clothing & Accessories,Accessories,Hair Accessories,Hair Ties,,hair tie
+1,Clothing & Accessories,Accessories,Hair Accessories,Headbands,,headband
+1,Clothing & Accessories,Accessories,Hats,Occasion Hats,Fascinators,fascinator
+1,Clothing & Accessories,Accessories,Hats,Occasion Hats,Formal Hats,formal hat
+1,Clothing & Accessories,Accessories,Hats,Occasion Hats,Other,occasion hat
+1,Clothing & Accessories,Accessories,Hats,Summer Hats,Caps/Snapbacks,cap
+1,Clothing & Accessories,Accessories,Hats,Summer Hats,Caps/Snapbacks,snapback
+1,Clothing & Accessories,Accessories,Hats,Summer Hats,Straw Hats/Sun Hats,straw hat
+1,Clothing & Accessories,Accessories,Hats,Summer Hats,Straw Hats/Sun Hats,sun hat
+1,Clothing & Accessories,Accessories,Hats,Winter Hats,Beanie Hats,beanie
+1,Clothing & Accessories,Accessories,Hats,Winter Hats,Ushankas,ushanka
+1,Clothing & Accessories,Accessories,Hats,Other,Bowler Hats,bowler hat
+1,Clothing & Accessories,Accessories,Hats,Other,,fedora
+1,Clothing & Accessories,Accessories,Hats,Other,,felt hat
+1,Clothing & Accessories,Accessories,Hats,Other,,hat
+1,Clothing & Accessories,Accessories,Other,beauty,,body lotion
+1,Clothing & Accessories,Accessories,Other,beauty,,face pack
+1,Clothing & Accessories,Accessories,Other,beauty,,hand cream
+1,Clothing & Accessories,Accessories,Other,beauty,,moisturizer
+1,Clothing & Accessories,Accessories,Other,beauty,,toner
+1,Clothing & Accessories,Accessories,Other,Key Rings,,key ring
+1,Clothing & Accessories,Accessories,Other,Make Up,,bareminerals
+1,Clothing & Accessories,Accessories,Other,Make Up,,bourjois
+1,Clothing & Accessories,Accessories,Other,Make Up,,eye duo
+1,Clothing & Accessories,Accessories,Other,Make Up,,foundation
+1,Clothing & Accessories,Accessories,Other,Make Up,,glitter eyes
+1,Clothing & Accessories,Accessories,Other,Make Up,,lipstick
+1,Clothing & Accessories,Accessories,Other,Make Up,,make up
+1,Clothing & Accessories,Accessories,Other,Make Up,,mascara
+1,Clothing & Accessories,Accessories,Other,Make Up,,mirror
+1,Clothing & Accessories,Accessories,Other,Make Up,,models own
+1,Clothing & Accessories,Accessories,Other,Other,,bangle
+1,Clothing & Accessories,Accessories,Other,Other,,manicure
+1,Clothing & Accessories,Accessories,Other,Other,,nail
+1,Clothing & Accessories,Accessories,Other,Other,,other
+1,Clothing & Accessories,Accessories,Other,Phone/Tablet Cases,,phone
+1,Clothing & Accessories,Accessories,Other,Phone/Tablet Cases,,tablet case
+1,Clothing & Accessories,Accessories,Other,Umbrellas,,umbrella
+1,Clothing & Accessories,Accessories,Other,Watches,,watch
+1,Clothing & Accessories,Accessories,Scarves,Lightweight Scarves,Pashminas,pashmina
+1,Clothing & Accessories,Accessories,Scarves,Lightweight Scarves,,lightweight scarf
+1,Clothing & Accessories,Accessories,Scarves,Other,,scarf
+1,Clothing & Accessories,Accessories,Scarves,Winter Scarves,Fur Scarves,fur scarf
+1,Clothing & Accessories,Accessories,Scarves,Winter Scarves,Snoods,snood
+1,Clothing & Accessories,Accessories,Scarves,Winter Scarves,Woollen Scarves,woolen scarf
+1,Clothing & Accessories,Accessories,Ties,Bow Ties,,bow tie
+1,Clothing & Accessories,Accessories,Ties,Classic Ties,,classic tie
+1,Clothing & Accessories,Accessories,Ties,Other,,tie
+1,Clothing & Accessories,Accessories,Ties,Skinny Ties,,skinny tie
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Clutch Bags,,clutch
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Cross Body Bags,,cross body bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Make Up Bags/ Luggage,,make up bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Make Up Bags/ Luggage,,luggage
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Messenger Bags,,messenger bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Other,,backpack
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Other,,bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Other,,duffel bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Other,,gym bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Other,,holdall bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Rucksacks,,rucksack
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Satchels,,satchel
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Shopper/Tote Bags,,shopper bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Shopper/Tote Bags,,tote bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Bags,Shoulder Bags,,shoulder bag
+1,Clothing & Accessories,Bags/Purses/Wallets,Purses,Other,,purse
+1,Clothing & Accessories,Bags/Purses/Wallets,Wallets,Other,,wallet
+1,Clothing & Accessories,Footwear,Boat Shoes,Other,,boat shoe
+1,Clothing & Accessories,Footwear,Boots,Ankle Boots,,ankle boot
+1,Clothing & Accessories,Footwear,Boots,Army Boots,,army boot
+1,Clothing & Accessories,Footwear,Boots,Cowboy Boots,,cowboy boot
+1,Clothing & Accessories,Footwear,Boots,Dress Boots,,dress boot
+1,Clothing & Accessories,Footwear,Boots,Other,,boot
+1,Clothing & Accessories,Footwear,Boots,Other,,chukka
+1,Clothing & Accessories,Footwear,Boots,Other,,desert boot
+1,Clothing & Accessories,Footwear,Boots,Other,,western boot
+1,Clothing & Accessories,Footwear,Espadrilles,Other,,espadrille
+1,Clothing & Accessories,Footwear,Flats/Pumps,Other,,flat sandal
+1,Clothing & Accessories,Footwear,Flats/Pumps,Other,,flat shoe
+1,Clothing & Accessories,Footwear,Heels,High Heels,,high heel
+1,Clothing & Accessories,Footwear,Heels,Low Heels,,low heel
+1,Clothing & Accessories,Footwear,Heels,Medium Heels,,medium heel
+1,Clothing & Accessories,Footwear,Heels,Other,,heel
+1,Clothing & Accessories,Footwear,Shoes,Other,,ballerina shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,brogue
+1,Clothing & Accessories,Footwear,Shoes,Other,,cleated sole
+1,Clothing & Accessories,Footwear,Shoes,Other,,deck shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,derby shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,driving shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,moccasin
+1,Clothing & Accessories,Footwear,Shoes,other,,peep toe
+1,Clothing & Accessories,Footwear,Shoes,Other,,saddle shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,shoe
+1,Clothing & Accessories,Footwear,Shoes,Other,,slipper
+1,Clothing & Accessories,Footwear,Shoes,Other,,wingcap shoe
+1,Clothing & Accessories,Footwear,Sandals,Flip Flops,,flip flop
+1,Clothing & Accessories,Footwear,Sandals,Gladiator Sandals,,gladiator sandal
+1,Clothing & Accessories,Footwear,Sandals,Other,,sandal
+1,Clothing & Accessories,Footwear,Sandals,Toe Sandals,,toe sandal
+1,Clothing & Accessories,Footwear,Sandals,Wedges,,wedge
+1,Clothing & Accessories,Footwear,Trainers & Plimsolls,Hi-Tops,,hi-top
+1,Clothing & Accessories,Footwear,Trainers & Plimsolls,Other,,loafer
+1,Clothing & Accessories,Footwear,Trainers & Plimsolls,Plimsolls,,plimsoll
+1,Clothing & Accessories,Footwear,Trainers & Plimsolls,Trainers,,trainer
+1,Clothing & Accessories,Jewellery,Bracelets,Other,,bracelet
+1,Clothing & Accessories,Jewellery,Earrings,Drop Earrings,,drop earring
+1,Clothing & Accessories,Jewellery,Earrings,Hoop Earrings,,hoop earring
+1,Clothing & Accessories,Jewellery,Earrings,Other,,earring
+1,Clothing & Accessories,Jewellery,Earrings,Stud Earrings,,stud earring
+1,Clothing & Accessories,Jewellery,Necklaces,Long Necklaces,,long necklace
+1,Clothing & Accessories,Jewellery,Necklaces,Other,,necklace
+1,Clothing & Accessories,Jewellery,Necklaces,Pendant/Chain Necklaces,,pendant/chain necklaces
+1,Clothing & Accessories,Jewellery,Other,Other,,body jewellery
+1,Clothing & Accessories,Jewellery,Other,Other,,jewellery
+1,Clothing & Accessories,Jewellery,Other,Wristbands,,wristband
+1,Clothing & Accessories,Jewellery,Rings,Other,,ring
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Hoodies,,hooded top
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Hoodies,,hoodie
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Hoodies,,hoody
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Joggers,,jogger
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Sweatshirts,,sweat
+1,Clothing & Accessories,Mens,Hoodies & Sweats,Sweatshirts,,sweatshirt
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Other,coat
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Overcoats,overcoat
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Pea Coats,pea coat
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Trench Coats,trench coat
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Waistcoats,waistcoat
+1,Clothing & Accessories,Mens,Jackets & Coats,Coats,Wool Coats,wool coat
+1,Clothing & Accessories,Mens,Jackets & Coats,Gilets,Gilets,gilet
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Biker Jackets,biker jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Blazers,blazer
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Bomber Jackets,bomber jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Denim Jackets,denim jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Harrington Jackets,harrington jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Leather Jackets,leather jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Other,jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Parkas,parka
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Quilted Jackets,quilted jacket
+1,Clothing & Accessories,Mens,Jackets & Coats,Jackets,Varsity Jackets,varsity jacket
+1,Clothing & Accessories,Mens,Jeans,Other,,jeans
+1,Clothing & Accessories,Mens,Jeans,Skinny Jeans,Skinny Jeans,skinny jeans
+1,Clothing & Accessories,Mens,Jeans,Slim Fit Jeans,Slim Fit Jeans,slim fit jeans
+1,Clothing & Accessories,Mens,Jeans,Straight Leg Jeans,Straight Leg Jeans,straight leg jeans
+1,Clothing & Accessories,Mens,Jeans,Tapered Jeans,Tapered Jeans,tapered jeans
+1,Clothing & Accessories,Mens,Jumpers & Cardigans,Cardigans,,cardigan
+1,Clothing & Accessories,Mens,Jumpers & Cardigans,Jumpers,,jumper
+1,Clothing & Accessories,Mens,Jumpers & Cardigans,Sweaters,,knit
+1,Clothing & Accessories,Mens,Jumpers & Cardigans,Sweaters,,sweater
+1,Clothing & Accessories,Mens,Shirts,Casual Shirts,,casual shirt
+1,Clothing & Accessories,Mens,Shirts,Oxford shirts,,oxford shirt
+1,Clothing & Accessories,Mens,Shirts,Shirts,,shirt
+1,Clothing & Accessories,Mens,Shirts,Smart shirts,,smart shirt
+1,Clothing & Accessories,Mens,Shorts,Board Shorts,,board shorts
+1,Clothing & Accessories,Mens,Shorts,Casual Shorts,,casual shorts
+1,Clothing & Accessories,Mens,Shorts,Denim Shorts,,denim shorts
+1,Clothing & Accessories,Mens,Shorts,Shorts,,short
+1,Clothing & Accessories,Mens,Shorts,Smart Shorts,,smart shorts
+1,Clothing & Accessories,Mens,Sleepwear,Dressing Gowns,,dressing gown
+1,Clothing & Accessories,Mens,Sleepwear,Onesie,,onesie
+1,Clothing & Accessories,Mens,Sleepwear,Pyjamas,,pyjama
+1,Clothing & Accessories,Mens,Suits,Suit Jackets,,suit jacket
+1,Clothing & Accessories,Mens,Suits,Suit Trousers,,suit trousers
+1,Clothing & Accessories,Mens,Suits,Suit Waistcoats,,suit waistcoat
+1,Clothing & Accessories,Mens,Swimwear,Swimming Shorts,,swimming shorts
+1,Clothing & Accessories,Mens,Swimwear,Swimming Trunks,,swimming trunks
+1,Clothing & Accessories,Mens,Trousers & Chinos,Chinos,,chino
+1,Clothing & Accessories,Mens,Trousers & Chinos,Trousers,Utility Trousers,utility trouser
+1,Clothing & Accessories,Mens,Trousers & Chinos,Trousers,,trouser
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,Other,,top
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,Polo Shirts,,polo
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,Polo Shirts,,polo shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,Long Sleeve T-Shirts,long sleeve t-shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,Plain T-Shirts,plain t-shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,Printed T-Shirts,printed t-shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,Sleeve Tops,sleeve top
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,Striped T-Shirts,striped t-shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,,tee
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,T-Shirts,,t-shirt
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,Vests,Quilted Vests,quilted vest
+1,Clothing & Accessories,Mens,T-Shirts/Polo Shirts & Vests,Vests,,vest
+1,Clothing & Accessories,Mens,Underwear & Socks,Socks,Socks,sock
+1,Clothing & Accessories,Mens,Underwear & Socks,Underwear,Boxers,boxer
+1,Clothing & Accessories,Mens,Underwear & Socks,Underwear,Briefs,brief
+1,Clothing & Accessories,Women,Dresses,Other,,dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Maxi Dress,maxi dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Midi Dress,midi dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,bodycon dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,casual dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,denim dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,pareo dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,pencil dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,smock dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,sun dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,terry dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Other,wrap dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Printed Dresses,printed dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Skater Dresses,skater dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Strap Dresses,strap dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,Strapless Dresses,strapless dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,T-Shirt/Shirt Dresses,t-shirt dress
+1,Clothing & Accessories,Women,Dresses,Casual Dresses,T-Shirt/Shirt Dresses,shirt dress
+1,Clothing & Accessories,Women,Dresses,Evening/Occasion Dresses,Elegant Gowns,elegant gown
+1,Clothing & Accessories,Women,Dresses,Evening/Occasion Dresses,Prom Dress,prom dress
+1,Clothing & Accessories,Women,Dresses,Evening/Occasion Dresses,,evening dress
+1,Clothing & Accessories,Women,Dresses,Evening/Occasion Dresses,,occasion dress
+1,Clothing & Accessories,Women,Dresses,Evening/Occasion Dresses,,silk dress
+1,Clothing & Accessories,Women,Dresses,Formal/Work Dresses,,formal dress
+1,Clothing & Accessories,Women,Dresses,Formal/Work Dresses,,work dress
+1,Clothing & Accessories,Women,Dresses,Other,,bandeau dress
+1,Clothing & Accessories,Women,Dresses,Other,,boutique dress
+1,Clothing & Accessories,Women,Dresses,Other,,origami dress
+1,Clothing & Accessories,Women,Dresses,Party Dress,Bodycon Dress,bodycon dress
+1,Clothing & Accessories,Women,Dresses,Party Dress,Embellished Dress,embellished dress
+1,Clothing & Accessories,Women,Dresses,Party Dress,,party dress
+1,Clothing & Accessories,Women,Hoodies & Sweats,Hoodies,,hooded top
+1,Clothing & Accessories,Women,Hoodies & Sweats,Hoodies,,hoodie
+1,Clothing & Accessories,Women,Hoodies & Sweats,Hoodies,,hoody
+1,Clothing & Accessories,Women,Hoodies & Sweats,Joggers,,jogger
+1,Clothing & Accessories,Women,Hoodies & Sweats,Sweatshirts,,sweat
+1,Clothing & Accessories,Women,Hoodies & Sweats,Sweatshirts,,sweatshirt
+1,Clothing & Accessories,Women,Jackets & Coats,Blazers/Suit Jackets,,blazer
+1,Clothing & Accessories,Women,Jackets & Coats,Coats,,coat
+1,Clothing & Accessories,Women,Jackets & Coats,Denim Jackets,,denim jacket
+1,Clothing & Accessories,Women,Jackets & Coats,Gilets,,gilet
+1,Clothing & Accessories,Women,Jackets & Coats,Leather Jackets,,leather jacket
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,biker jacket
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,bomber
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,jacket
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,parka
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,plastic mac
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,rain mac
+1,Clothing & Accessories,Women,Jackets & Coats,Other,,water mac
+1,Clothing & Accessories,Women,Jackets & Coats,Waistcoats,,waistcoat
+1,Clothing & Accessories,Women,Jeans,Bootcut Jeans,,bootcut jeans
+1,Clothing & Accessories,Women,Jeans,Boyfriend Jeans,,boyfriend jeans
+1,Clothing & Accessories,Women,Jeans,High-Waisted Jeans,,high waisted jeans
+1,Clothing & Accessories,Women,Jeans,High-Waisted Jeans,,joni jeans
+1,Clothing & Accessories,Women,Jeans,Other,Cropped Jeans,cropped jeans
+1,Clothing & Accessories,Women,Jeans,Other,,flare jeans
+1,Clothing & Accessories,Women,Jeans,Other,,jeans
+1,Clothing & Accessories,Women,Jeans,Other,,lacey jeans
+1,Clothing & Accessories,Women,Jeans,Other,,maternity jeans
+1,Clothing & Accessories,Women,Jeans,Other,,mom jeans
+1,Clothing & Accessories,Women,Jeans,Skinny Jeans,,skinny jeans
+1,Clothing & Accessories,Women,Jeans,Straight Leg Jeans,,straight leg jeans
+1,Clothing & Accessories,Women,Jumpers & Cardigans,Cardigans,,cardigan
+1,Clothing & Accessories,Women,Jumpers & Cardigans,Cardigans,,knitted cardigan
+1,Clothing & Accessories,Women,Jumpers & Cardigans,Jumpers,,jumper
+1,Clothing & Accessories,Women,Jumpers & Cardigans,Sweater,,sweater
+1,Clothing & Accessories,Women,Jumpsuits & Playsuits,Jumpsuit,,jumpsuit
+1,Clothing & Accessories,Women,Jumpsuits & Playsuits,Playsuit,,playsuit
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Lingerie,Bras,bra
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Lingerie,Corsets,corset
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Lingerie,Knickers,knicker
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Lingerie,Other,lingerie
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Lingerie,Slips,slip
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Nightwear,Other,nightwear
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Nightwear,NightDress,nightdress
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Nightwear,Onesies,onesie
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Nightwear,Other,other
+1,Clothing & Accessories,Women,Lingerie & Nightwear,Nightwear,Pyjamas,pyjama
+1,Clothing & Accessories,Women,Pinafores & Dungarees,Other,,dungaree
+1,Clothing & Accessories,Women,Pinafores & Dungarees,Other,,pinafore
+1,Clothing & Accessories,Women,Shorts,Capris,,capri
+1,Clothing & Accessories,Women,Shorts,Denim Shorts,,denim short
+1,Clothing & Accessories,Women,Shorts,Other,,short
+1,Clothing & Accessories,Women,Shorts,Short Shorts/Hot Pants,,hot pant
+1,Clothing & Accessories,Women,Shorts,Short Shorts/Hot Pants,,short short
+1,Clothing & Accessories,Women,Skirts,Maxi/Midi Skirts,Maxi Skirts,maxi skirt
+1,Clothing & Accessories,Women,Skirts,Maxi/Midi Skirts,Midi Skirts,midi skirt
+1,Clothing & Accessories,Women,Skirts,Mini Skirts,Bodycon Skirts,bodycon skirt
+1,Clothing & Accessories,Women,Skirts,Mini Skirts,Peplum Skirts,peplum skirt
+1,Clothing & Accessories,Women,Skirts,Mini Skirts,Skater Skirts,skater skirt
+1,Clothing & Accessories,Women,Skirts,Mini Skirts,Mini Skirts,mini skirt
+1,Clothing & Accessories,Women,Skirts,Other,A-Line Skirts,a-line skirt
+1,Clothing & Accessories,Women,Skirts,Other,Kilts,kilt
+1,Clothing & Accessories,Women,Skirts,Other,,skirt
+1,Clothing & Accessories,Women,Skirts,Other,Tube Skirts,tube skirt
+1,Clothing & Accessories,Women,Skirts,Other,Pencil Skirts,pencil skirt
+1,Clothing & Accessories,Women,Socks & Tights,Other,,denier
+1,Clothing & Accessories,Women,Socks & Tights,Socks,,ankle sock
+1,Clothing & Accessories,Women,Socks & Tights,Socks,,sock
+1,Clothing & Accessories,Women,Socks & Tights,Tights,,tights
+1,Clothing & Accessories,Women,Suits & Separates,Suit Skirts,,suit skirt
+1,Clothing & Accessories,Women,Suits & Separates,Suit Jackets,,suit jacket
+1,Clothing & Accessories,Women,Suits & Separates,Other,,suit
+1,Clothing & Accessories,Women,Sunglasses,,,
+1,Clothing & Accessories,Women,Swimwear & Beachwear,,,
+1,Clothing & Accessories,Women,Swimwear,Beach Cover-Ups,,cover-up
+1,Clothing & Accessories,Women,Swimwear,Other,,swim
+1,Clothing & Accessories,Women,Swimwear,Swimsuits,Bikinis,bikini
+1,Clothing & Accessories,Women,Swimwear,Swimsuits,One Piece Suits,one piece suit
+1,Clothing & Accessories,Women,Swimwear,Swimsuits,Tankinis,tankini
+1,Clothing & Accessories,Women,Swimwear,Swimsuits,,swimsuit
+1,Clothing & Accessories,Women,Tops,Crop Tops,,bralet
+1,Clothing & Accessories,Women,Tops,Crop Tops,,crop top
+1,Clothing & Accessories,Women,Tops,Drape Top,,drape top
+1,Clothing & Accessories,Women,Tops,Leotards,,leotard
+1,Clothing & Accessories,Women,Tops,Long-sleeved Tops,,long-sleeved top
+1,Clothing & Accessories,Women,Tops,Other,,cami
+1,Clothing & Accessories,Women,Tops,Other,,jersey top
+1,Clothing & Accessories,Women,Tops,Other,,peplum top
+1,Clothing & Accessories,Women,Tops,Other,,round neck top
+1,Clothing & Accessories,Women,Tops,Other,,swing top
+1,Clothing & Accessories,Women,Tops,Other,,tank top
+1,Clothing & Accessories,Women,Tops,Other,,top
+1,Clothing & Accessories,Women,Tops,Other,,tube top
+1,Clothing & Accessories,Women,Tops,Other,,v neck top
+1,Clothing & Accessories,Women,Tops,Other,,wrap top
+1,Clothing & Accessories,Women,Tops,Other,,yoke top
+1,Clothing & Accessories,Women,Tops,Shirts,,check shirt
+1,Clothing & Accessories,Women,Tops,Shirts,,denim shirt
+1,Clothing & Accessories,Women,Tops,Shirts,,print shirt
+1,Clothing & Accessories,Women,Tops,Shirts,,shirt
+1,Clothing & Accessories,Women,Tops,Shirts,,stripe shirt
+1,Clothing & Accessories,Women,Tops,Shirts,,sweat shirt
+1,Clothing & Accessories,Women,Tops,Sleeveless Tops,,sleeveless top
+1,Clothing & Accessories,Women,Tops,Strap Top,,strap top
+1,Clothing & Accessories,Women,Tops,Strap Top,,tunic
+1,Clothing & Accessories,Women,Tops,Strap Vests,,strap vest
+1,Clothing & Accessories,Women,Tops,T-Shirts,,tee
+1,Clothing & Accessories,Women,Tops,T-Shirts,,t-shirt
+1,Clothing & Accessories,Women,Tops,Vests,,vest
+1,Clothing & Accessories,Women,Trousers,Casual Trousers,,casual trouser
+1,Clothing & Accessories,Women,Trousers,Casual Trousers,,jogger
+1,Clothing & Accessories,Women,Trousers,Casual Trousers,,lady pant
+1,Clothing & Accessories,Women,Trousers,Other,,track pant
+1,Clothing & Accessories,Women,Trousers,Other,,trouser
+1,Clothing & Accessories,Women,Trousers,Suit Trousers,,suit trouser
+1,Clothing & Accessories,Women,Leggings,Jeggings,,jegging
+1,Clothing & Accessories,Women,Leggings,Other,,legging
+1,Clothing & Accessories,Women,Leggings,Patterned Leggings,,patterned legging
+1,Clothing & Accessories,Women,Underwear,Other,Other,bodice
+1,Clothing & Accessories,Women,Underwear,Other,Other,chemise
+1,Clothing & Accessories,Women,Underwear,Panties,,brief
+1,Clothing & Accessories,Women,Underwear,Panties,,thong
+1,Clothing & Accessories,Women,Underwear,Shapewear,Other,body
+1,Clothing & Accessories,Women,Underwear,Shapewear,,bodysuit
+1,Clothing & Accessories,Women,Underwear,Shapewear,,shapewear

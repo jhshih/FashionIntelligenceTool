@@ -1,0 +1,1 @@
+colourRef:config/colour_ref.csvtaxonomyRef:config/taxonomy.csvinputFile:input_files/asos_8-17.csvoutputFile:output_files/asos_processed.csverrorFile:output_files/asos_error.csv

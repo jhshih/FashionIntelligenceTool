@@ -68,6 +68,18 @@ public class Item {
 		
 		return result;
 	}
+	
+	public void print() {
+		System.out.println("SKU: " + this.SKU);
+		System.out.println("Product Name: " + this.productName);
+		System.out.println("Original Price: " + this.originalPrice);
+		System.out.println("Discount Price: " + this.discountPrice);
+		System.out.println("Available: " + this.available);
+		System.out.println("Size: " + this.size);
+		System.out.println("Colour: " + this.colour);
+		System.out.println("Category: " + this.category1);
+		System.out.println("Image: " + this.imageURL);
+	}
 
 	public String getSKU() {
 		return SKU;

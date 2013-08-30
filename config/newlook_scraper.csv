@@ -1,0 +1,12 @@
+baseURL,http://www.newlook.com/sitemap.xml,1,.*(newlook.com/shop/).+/.+/.*
+idTag,css,span[itemprop=productID]
+productName,css,h1[itemprop=name]
+originalPrice,css,span[itemprop=price]
+discountPrice,css,asdf
+discounted,js,IsDiscounted
+available,css,out_stock_message
+size,css,sizes option[value]
+colour,css,colour-option[value]
+category,css,breadcrumb li
+brand,js,ProductBrand
+imageURL,css,li.li_thumb img
